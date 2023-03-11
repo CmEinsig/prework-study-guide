@@ -12,7 +12,6 @@ N/A
 
 You can use the study guide to study note. If you need help picking something to study open DevTools. 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
